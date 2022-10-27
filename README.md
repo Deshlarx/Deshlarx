@@ -2,13 +2,17 @@
 
 <h3 align= "center"> An ardent frontend developer from Nigeria</h3>
 
-I’m currently learning JavaScript
+👩‍💻 I'm currently working on a console project
 
-I'm looking to collaborate on FrontEnd Development Projects
+🧠 I’m currently learning JavaScript
 
-I'm looking for help with JavaScript Mentor
+👯‍ I'm looking to collaborate on FrontEnd Development Projects
 
-Ask me about **HTML, CSS, and JavaScript**
+🤔 I'm looking for help with JavaScript Mentor
+
+💬 Ask me about **HTML, CSS, and JavaScript**
+
+📫 How to reach me **adesolaadeyemi1010@gmail.com**
 
 ## 🚀 About Me
 
@@ -18,13 +22,10 @@ I'm a frontend developer...
 
 Javascript, HTML, CSS...
 
-📫 How to reach me **adesolaadeyemi1010@gmail.com**
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@AdesolaOgunyemi/My-Portfolio#index.html)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesola-ogunyemi-351879154)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdesolaOgunyemi?)
-
 
 ## FAQ
 
@@ -43,4 +44,22 @@ Answer 2
 ## Demo
 
 https://nimble-ganache-6de882.netlify.app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
