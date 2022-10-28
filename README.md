@@ -1,6 +1,18 @@
-<h1 align= "center"> Hi 👋, I’m Adesola Ogunyemi!</h1>
+<h1 align="center"> 🚀 About Me </h1>
+
+<p align="center">I'm a frontend developer...</p>
+
+<h2 align= "center"> Hi 👋, I’m Adesola Ogunyemi!</h2>
 
 <h3 align= "center"> An ardent frontend developer from Nigeria</h3>
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@AdesolaOgunyemi/My-Portfolio#index.html)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesola-ogunyemi-351879154)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdesolaOgunyemi?)
 
 👩‍💻 I'm currently working on a console project
 
@@ -14,19 +26,9 @@
 
 📫 How to reach me **adesolaadeyemi1010@gmail.com**
 
-## 🚀 About Me
-
-I'm a frontend developer...
-
 ## 🛠 Skills
 
 Javascript, HTML, CSS...
-
-Connect with me:
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@AdesolaOgunyemi/My-Portfolio#index.html)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesola-ogunyemi-351879154)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdesolaOgunyemi?)
 
 ## FAQ
 
