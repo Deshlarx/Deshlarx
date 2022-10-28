@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 About Me </h1>
+<h1 align="center"> 🚀 A bit About Me </h1>
 
 <h3 align= "center"> Hi 👋, I’m Adesola Abosede Ogunyemi!</h3>
 
@@ -20,7 +20,7 @@
 
 ## 🛠 Skills
 
-Javascript, HTML, CSS...
+HTML, CSS, and Javascript
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@AdesolaOgunyemi/My-Portfolio#index.html)
@@ -35,7 +35,7 @@ Git is a version control system
 
 #### Why is Github Special Repo important?
 
-Github Special Repo is important because it makes a Github profile nice-looking and more appealing.
+Github Special Repo is important because it makes a Github profile nice-looking and appealing to people.
 
 ## Author
 
