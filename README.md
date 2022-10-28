@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 A bit About Me </h1>
+<h1 align="center"> 🚀 About Me </h1>
 
 <h3 align= "center"> Hi 👋, I’m Adesola Abosede Ogunyemi!</h3>
 
