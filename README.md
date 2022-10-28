@@ -1,18 +1,10 @@
 <h1 align="center"> 🚀 About Me </h1>
 
-<p align="center">I'm a frontend developer...</p>
+<h3 align= "center"> Hi 👋, I’m Adesola Abosede Ogunyemi!</h3>
 
-<h2 align= "center"> Hi 👋, I’m Adesola Ogunyemi!</h2>
+<h4 align= "center"> An ardent frontend developer</h4>
 
-<h3 align= "center"> An ardent frontend developer from Nigeria</h3>
-
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@AdesolaOgunyemi/My-Portfolio#index.html)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesola-ogunyemi-351879154)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdesolaOgunyemi?)
+<br>
 
 👩‍💻 I'm currently working on a console project
 
@@ -20,7 +12,7 @@
 
 👯‍ I'm looking to collaborate on FrontEnd Development Projects
 
-🤔 I'm looking for help with JavaScript Mentor
+🤔 I'm looking for help with a JavaScript Mentor
 
 💬 Ask me about **HTML, CSS, and JavaScript**
 
@@ -30,15 +22,20 @@
 
 Javascript, HTML, CSS...
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@AdesolaOgunyemi/My-Portfolio#index.html)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesola-ogunyemi-351879154)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdesolaOgunyemi?)
+
 ## FAQ
 
 #### What is Git?
 
 Git is a version control system 
 
-#### Question 2
+#### Why is Github Special Repo important?
 
-Answer 2
+Github Special Repo is important because it makes a Github profile nice-looking and more appealing.
 
 ## Author
 
