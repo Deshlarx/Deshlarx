@@ -6,7 +6,7 @@
 
 <br>
 
-👩‍💻 I'm currently working on a console project
+👩‍💻 I'm currently working on Frontend Mentor projects
 
 🧠 I’m currently learning JavaScript
 
